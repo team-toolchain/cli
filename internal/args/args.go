@@ -1,7 +1,7 @@
 package args
 
 import (
-	"flag"
+	flag "github.com/spf13/pflag"
 )
 
 func HandleArgs() {
@@ -10,5 +10,5 @@ func HandleArgs() {
 }
 
 func configFlag() {
-	flag.String("new", "", "initializes a new toolchain")
+	flag.String("new", ".", "initializes a new toolchain")
 }
