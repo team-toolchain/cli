@@ -1,0 +1,7 @@
+ - Different storage options:
+   - S3
+   - Git repo
+   - Directory
+
+ - security
+   - checksum

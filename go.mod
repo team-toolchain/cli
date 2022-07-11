@@ -1,4 +1,4 @@
-module github.com/Team-Toolchain/tt
+module github.com/team-toolchain/tt
 
 require (
 	github.com/davecgh/go-spew v1.1.1
