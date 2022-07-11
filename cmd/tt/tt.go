@@ -1,13 +1,7 @@
 package main
 
-import (
-	"flag"
-)
-
-func configFlag() {
-	flag.String("new", "", "initializes a new toolchain")
-}
+import "github.com/team-toolchain/tt/internal/args"
 
 func main() {
-	flag.Parse()
+	args.HandleArgs()
 }
