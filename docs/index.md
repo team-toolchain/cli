@@ -1,4 +1,4 @@
-# Team Toolchain / tt
+# team-toolchain / tt
 
 ## Commands
 
