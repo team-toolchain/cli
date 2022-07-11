@@ -5,4 +5,10 @@ require (
 	github.com/mattn/go-colorable v0.1.12
 )
 
+require (
+	github.com/hashicorp/go-version v1.0.0 // indirect
+	github.com/mitchellh/gox v1.0.1 // indirect
+	github.com/mitchellh/iochan v1.0.0 // indirect
+)
+
 go 1.18
