@@ -1,7 +1,11 @@
  - Different storage options:
    - S3
+   - Azure Blob
+   - Google Storage
    - Git repo
-   - Directory
+   - Locally
+   - Network Drive
+   - Cloud Drive / OneDrive etc.
 
  - security
    - checksum
