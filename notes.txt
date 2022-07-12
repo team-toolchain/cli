@@ -20,3 +20,6 @@
    - .jsx # javascript
    - .vbs # visual basic script
    - .csx # csharp script
+   - .jar # java archive
+   - .bat # DOS batch file
+   - .coffee # Coffee script file
