@@ -5,3 +5,14 @@
 
  - security
    - checksum
+
+ - types of files to store:
+   - .sh  # shell
+   - .ps1 # powershell
+   - .pl  # perl
+   - .py  # python
+   - .kts # kotlin
+   - .tsx # typescript
+   - .jsx # javascript
+   - .vbs # visual basic script
+   - .csx # csharp script
